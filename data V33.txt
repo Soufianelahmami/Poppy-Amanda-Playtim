@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Imaginative play is an essential aspect of childhood development. It allows children to explore their creativity, enhance problem-solving skills, and develop social and emotional competencies. ","photo2":"https://iili.io/HgwPTrP.jpg"},
+  {"desc3":" Through role-playing, storytelling, and pretend play, children can step into different roles, engage in make-believe scenarios, and develop a deeper understanding of the world around them.","photo3":"https://iili.io/HgwPA21.png"},
+  {"desc4":"Poppy Amanda Playtime is built upon the philosophy that children learn best through play. ","photo4":"https://iili.io/HgwPIEB.jpg"},
+  {"desc5":" brand emphasizes the importance of unstructured playtime, where children are encouraged to use their imagination, create their narratives, and engage in open-ended play. ","photo5":"https://iili.io/HgwPzBV.jpg"},
+  {"descd":" By providing a range of playsets, toys, and accessories, Poppy Amanda Playtime empowers children to take the lead in their play experiences and unlocks their limitless potential.","photod":"https://iili.io/HgwPRYF.jpg"}
    ]
  
 }
