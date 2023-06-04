@@ -4,7 +4,7 @@
 "unity_inter":"Interstitial_Android",
 "unity_banner":"Banner_Android",
 "unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
+"unity_gameid":"5302402",
  
 
 "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
@@ -24,9 +24,9 @@
 "yandex_native":"R-M-DEMO-native-i",
 "yandex_reward":"demo-rewarded-yandex",
   
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_appid":"647ccf1e7b7217fafec47dd1",
 "vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_banner":"DEFAULT-7381547",
 "vungle_reward":"REWARD-7025613",
 
   
@@ -38,8 +38,8 @@
 
 "download_dialog_txt":"download text from server",
 "banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
 "native_network_choice":"admob"
   
 
